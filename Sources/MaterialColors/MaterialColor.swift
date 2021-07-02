@@ -4,7 +4,7 @@ import Foundation
 /// See https://material.io
 ///
 /// To use these colors, see the platform specific extensions on `UIKit.UIColor`, `AppKit.NSColor`, and `SwiftUI.Color`
-public enum MaterialColor: UInt32, Equatable, Hashable, Identifiable, CaseIterable, CustomStringConvertible {
+public enum MaterialColor: UInt32, Equatable, Hashable, Identifiable, CaseIterable, CustomStringConvertible, ExpressibleByStringLiteral {
 
     // MARK: - Basic
 
@@ -322,42 +322,20 @@ public enum MaterialColor: UInt32, Equatable, Hashable, Identifiable, CaseIterab
     case blueGrey800 = 0x37474F
     case blueGrey900 = 0x263238
 
-    public enum Family: String, Equatable, Hashable, CustomStringConvertible, CaseIterable {
+    // MARK: - Initializers
 
-        case absolute
-        case red
-        case pink
-        case purple
-        case deepPurple
-        case indigo
-        case blue
-        case lightBlue
-        case cyan
-        case teal
-        case green
-        case lightGreen
-        case lime
-        case yellow
-        case amber
-        case orange
-        case deepOrange
-        case brown
-        case grey
-        case blueGrey
-        case unknown
-
-        public var description: String {
-            rawValue
+    /// Create a `MaterialColor` from a string value
+    ///
+    /// ```
+    /// let color = MaterialColor("red50")
+    /// ```
+    ///
+    /// - Parameter string: The string representing the material color
+    public init?(_ string: String) {
+        guard let color = MaterialColor.allCases.first(where: { $0.description.lowercased() == string.lowercased() }) else {
+            return nil
         }
-
-        public func hash(into hasher: inout Hasher) {
-            hasher.combine(rawValue)
-        }
-
-        public static func == (lhs: Family, rhs: Family) -> Bool {
-            lhs.rawValue == rhs.rawValue
-        }
-
+        self = color
     }
 
     // MARK: - Hashable
@@ -381,16 +359,17 @@ public enum MaterialColor: UInt32, Equatable, Hashable, Identifiable, CaseIterab
 
     // MARK: - Identifiable
 
-    public typealias ID = Family
+    public typealias ID = String
 
-    public var id: Family {
-        guard self != .white, self != .black else {
-            return .absolute
-        }
-        return Family.allCases
-            .reversed()
-            .first { family in
-                description.contains(family.rawValue)
-            } ?? .unknown
+    public var id: ID {
+        description
+    }
+
+    // MARK: - ExpressibleByStringLiteral
+
+    public typealias StringLiteralType = String
+
+    public init(stringLiteral value: String) {
+        self = .init(value) ?? .white
     }
 }
