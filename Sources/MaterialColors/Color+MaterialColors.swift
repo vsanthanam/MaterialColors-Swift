@@ -13,6 +13,8 @@ import Foundation
 
     #if os(tvOS) || os(iOS) || os(watchOS) || targetEnvironment(macCatalyst)
 
+        import UIKit
+
         @available(iOS 13.0, *)
         public extension Color {
 
@@ -58,7 +60,7 @@ import Foundation
 
     #if os(macOS)
 
-        import SwiftUI
+        import AppKit
 
         @available(macOS 10.15, *)
         public extension Color {
