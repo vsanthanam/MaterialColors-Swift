@@ -2,7 +2,7 @@
 import XCTest
 
 #if os(iOS)
-import UIKit
+    import UIKit
 #endif
 
 final class MaterialColorsTests: XCTestCase {
@@ -270,16 +270,16 @@ final class MaterialColorsTests: XCTestCase {
         let mappedValues = MaterialColor.allCases.map(\.rawValue)
         XCTAssertEqual(mappedValues, rawValues)
     }
-    
+
     #if os(iOS)
-    
+
         func test_uicolor_conversion() {
             for materialColor in MaterialColor.allCases {
                 let uicolor: UIColor = .material(materialColor)
                 XCTAssertEqual(uicolor.asMaterialColor, materialColor)
             }
         }
-    
+
     #endif
 
     // TODO: - Use for more specific tests
