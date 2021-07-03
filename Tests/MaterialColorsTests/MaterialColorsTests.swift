@@ -282,6 +282,17 @@ final class MaterialColorsTests: XCTestCase {
 
     #endif
 
+    #if os(macOS) && !targetEnvironment(macCatalyst)
+
+        func test_nscolor_conversion() {
+            for materialColor in MaterialColor.allCases {
+                let nscolor: NSColor = .material(materialColor)
+                XCTAssertEqual(nscolor.asMaterialColor, materialColor)
+            }
+        }
+
+    #endif
+
     // TODO: - Use for more specific tests
     let colorsJSON = """
     {
