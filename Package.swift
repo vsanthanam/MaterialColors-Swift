@@ -6,10 +6,10 @@ import PackageDescription
 let package = Package(
     name: "MaterialColors",
     platforms: [
-        .iOS(.v14),
-        .macOS(.v11),
-        .tvOS(.v14),
-        .watchOS(.v7)
+        .iOS(.v10),
+        .macOS(.v10_12),
+        .tvOS(.v10),
+        .watchOS(.v3)
     ],
     products: [
         .library(
