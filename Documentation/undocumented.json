@@ -1,0 +1,1797 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 11,
+      "symbol": "MaterialColor.black",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 12,
+      "symbol": "MaterialColor.white",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 16,
+      "symbol": "MaterialColor.red50",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 17,
+      "symbol": "MaterialColor.red100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 18,
+      "symbol": "MaterialColor.red200",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 19,
+      "symbol": "MaterialColor.red300",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 20,
+      "symbol": "MaterialColor.red400",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 21,
+      "symbol": "MaterialColor.red500",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 22,
+      "symbol": "MaterialColor.red600",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 23,
+      "symbol": "MaterialColor.red700",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 24,
+      "symbol": "MaterialColor.red800",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 25,
+      "symbol": "MaterialColor.red900",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 26,
+      "symbol": "MaterialColor.redA100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 27,
+      "symbol": "MaterialColor.redA200",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 28,
+      "symbol": "MaterialColor.redA400",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 29,
+      "symbol": "MaterialColor.redA700",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 33,
+      "symbol": "MaterialColor.pink50",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 34,
+      "symbol": "MaterialColor.pink100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 35,
+      "symbol": "MaterialColor.pink200",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 36,
+      "symbol": "MaterialColor.pink300",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 37,
+      "symbol": "MaterialColor.pink400",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 38,
+      "symbol": "MaterialColor.pink500",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 39,
+      "symbol": "MaterialColor.pink600",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 40,
+      "symbol": "MaterialColor.pink700",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 41,
+      "symbol": "MaterialColor.pink800",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 42,
+      "symbol": "MaterialColor.pink900",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 43,
+      "symbol": "MaterialColor.pinkA100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 44,
+      "symbol": "MaterialColor.pinkA200",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 45,
+      "symbol": "MaterialColor.pinkA400",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 46,
+      "symbol": "MaterialColor.pinkA700",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 50,
+      "symbol": "MaterialColor.purple50",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 51,
+      "symbol": "MaterialColor.purple100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 52,
+      "symbol": "MaterialColor.purple200",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 53,
+      "symbol": "MaterialColor.purple300",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 54,
+      "symbol": "MaterialColor.purple400",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 55,
+      "symbol": "MaterialColor.purple500",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 56,
+      "symbol": "MaterialColor.purple600",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 57,
+      "symbol": "MaterialColor.purple700",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 58,
+      "symbol": "MaterialColor.purple800",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 59,
+      "symbol": "MaterialColor.purple900",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 60,
+      "symbol": "MaterialColor.purpleA100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 61,
+      "symbol": "MaterialColor.purpleA200",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 62,
+      "symbol": "MaterialColor.purpleA400",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 63,
+      "symbol": "MaterialColor.purpleA700",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 67,
+      "symbol": "MaterialColor.deepPurple50",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 68,
+      "symbol": "MaterialColor.deepPurple100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 69,
+      "symbol": "MaterialColor.deepPurple200",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 70,
+      "symbol": "MaterialColor.deepPurple300",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 71,
+      "symbol": "MaterialColor.deepPurple400",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 72,
+      "symbol": "MaterialColor.deepPurple500",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 73,
+      "symbol": "MaterialColor.deepPurple600",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 74,
+      "symbol": "MaterialColor.deepPurple700",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 75,
+      "symbol": "MaterialColor.deepPurple800",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 76,
+      "symbol": "MaterialColor.deepPurple900",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 77,
+      "symbol": "MaterialColor.deepPurpleA100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 78,
+      "symbol": "MaterialColor.deepPurpleA200",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 79,
+      "symbol": "MaterialColor.deepPurpleA400",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 80,
+      "symbol": "MaterialColor.deepPurpleA700",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 84,
+      "symbol": "MaterialColor.indigo50",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 85,
+      "symbol": "MaterialColor.indigo100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 86,
+      "symbol": "MaterialColor.indigo200",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 87,
+      "symbol": "MaterialColor.indigo300",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 88,
+      "symbol": "MaterialColor.indigo400",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 89,
+      "symbol": "MaterialColor.indigo500",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 90,
+      "symbol": "MaterialColor.indigo600",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 91,
+      "symbol": "MaterialColor.indigo700",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 92,
+      "symbol": "MaterialColor.indigo800",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 93,
+      "symbol": "MaterialColor.indigo900",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 94,
+      "symbol": "MaterialColor.indigoA100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 95,
+      "symbol": "MaterialColor.indigoA200",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 96,
+      "symbol": "MaterialColor.indigoA400",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 97,
+      "symbol": "MaterialColor.indigoA700",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 101,
+      "symbol": "MaterialColor.blue50",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 102,
+      "symbol": "MaterialColor.blue100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 103,
+      "symbol": "MaterialColor.blue200",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 104,
+      "symbol": "MaterialColor.blue300",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 105,
+      "symbol": "MaterialColor.blue400",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 106,
+      "symbol": "MaterialColor.blue500",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 107,
+      "symbol": "MaterialColor.blue600",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 108,
+      "symbol": "MaterialColor.blue700",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 109,
+      "symbol": "MaterialColor.blue800",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 110,
+      "symbol": "MaterialColor.blue900",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 111,
+      "symbol": "MaterialColor.blueA100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 112,
+      "symbol": "MaterialColor.blueA200",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 113,
+      "symbol": "MaterialColor.blueA400",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 114,
+      "symbol": "MaterialColor.blueA700",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 118,
+      "symbol": "MaterialColor.lightBlue50",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 119,
+      "symbol": "MaterialColor.lightBlue100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 120,
+      "symbol": "MaterialColor.lightBlue200",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 121,
+      "symbol": "MaterialColor.lightBlue300",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 122,
+      "symbol": "MaterialColor.lightBlue400",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 123,
+      "symbol": "MaterialColor.lightBlue500",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 124,
+      "symbol": "MaterialColor.lightBlue600",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 125,
+      "symbol": "MaterialColor.lightBlue700",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 126,
+      "symbol": "MaterialColor.lightBlue800",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 127,
+      "symbol": "MaterialColor.lightBlue900",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 128,
+      "symbol": "MaterialColor.lightBlueA100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 129,
+      "symbol": "MaterialColor.lightBlueA200",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 130,
+      "symbol": "MaterialColor.lightBlueA400",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 131,
+      "symbol": "MaterialColor.lightBlueA700",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 135,
+      "symbol": "MaterialColor.cyan50",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 136,
+      "symbol": "MaterialColor.cyan100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 137,
+      "symbol": "MaterialColor.cyan200",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 138,
+      "symbol": "MaterialColor.cyan300",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 139,
+      "symbol": "MaterialColor.cyan400",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 140,
+      "symbol": "MaterialColor.cyan500",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 141,
+      "symbol": "MaterialColor.cyan600",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 142,
+      "symbol": "MaterialColor.cyan700",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 143,
+      "symbol": "MaterialColor.cyan800",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 144,
+      "symbol": "MaterialColor.cyan900",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 145,
+      "symbol": "MaterialColor.cyanA100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 146,
+      "symbol": "MaterialColor.cyanA200",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 147,
+      "symbol": "MaterialColor.cyanA400",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 148,
+      "symbol": "MaterialColor.cyanA700",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 152,
+      "symbol": "MaterialColor.teal50",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 153,
+      "symbol": "MaterialColor.teal100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 154,
+      "symbol": "MaterialColor.teal200",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 155,
+      "symbol": "MaterialColor.teal300",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 156,
+      "symbol": "MaterialColor.teal400",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 157,
+      "symbol": "MaterialColor.teal500",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 158,
+      "symbol": "MaterialColor.teal600",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 159,
+      "symbol": "MaterialColor.teal700",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 160,
+      "symbol": "MaterialColor.teal800",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 161,
+      "symbol": "MaterialColor.teal900",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 162,
+      "symbol": "MaterialColor.tealA100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 163,
+      "symbol": "MaterialColor.tealA200",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 164,
+      "symbol": "MaterialColor.tealA400",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 165,
+      "symbol": "MaterialColor.tealA700",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 169,
+      "symbol": "MaterialColor.green50",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 170,
+      "symbol": "MaterialColor.green100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 171,
+      "symbol": "MaterialColor.green200",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 172,
+      "symbol": "MaterialColor.green300",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 173,
+      "symbol": "MaterialColor.green400",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 174,
+      "symbol": "MaterialColor.green500",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 175,
+      "symbol": "MaterialColor.green600",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 176,
+      "symbol": "MaterialColor.green700",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 177,
+      "symbol": "MaterialColor.green800",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 178,
+      "symbol": "MaterialColor.green900",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 179,
+      "symbol": "MaterialColor.greenA100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 180,
+      "symbol": "MaterialColor.greenA200",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 181,
+      "symbol": "MaterialColor.greenA400",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 182,
+      "symbol": "MaterialColor.greenA700",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 186,
+      "symbol": "MaterialColor.lightGreen50",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 187,
+      "symbol": "MaterialColor.lightGreen100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 188,
+      "symbol": "MaterialColor.lightGreen200",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 189,
+      "symbol": "MaterialColor.lightGreen300",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 190,
+      "symbol": "MaterialColor.lightGreen400",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 191,
+      "symbol": "MaterialColor.lightGreen500",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 192,
+      "symbol": "MaterialColor.lightGreen600",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 193,
+      "symbol": "MaterialColor.lightGreen700",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 194,
+      "symbol": "MaterialColor.lightGreen800",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 195,
+      "symbol": "MaterialColor.lightGreen900",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 196,
+      "symbol": "MaterialColor.lightGreenA100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 197,
+      "symbol": "MaterialColor.lightGreenA200",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 198,
+      "symbol": "MaterialColor.lightGreenA400",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 199,
+      "symbol": "MaterialColor.lightGreenA700",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 203,
+      "symbol": "MaterialColor.lime50",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 204,
+      "symbol": "MaterialColor.lime100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 205,
+      "symbol": "MaterialColor.lime200",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 206,
+      "symbol": "MaterialColor.lime300",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 207,
+      "symbol": "MaterialColor.lime400",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 208,
+      "symbol": "MaterialColor.lime500",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 209,
+      "symbol": "MaterialColor.lime600",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 210,
+      "symbol": "MaterialColor.lime700",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 211,
+      "symbol": "MaterialColor.lime800",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 212,
+      "symbol": "MaterialColor.lime900",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 213,
+      "symbol": "MaterialColor.limeA100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 214,
+      "symbol": "MaterialColor.limeA200",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 215,
+      "symbol": "MaterialColor.limeA400",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 216,
+      "symbol": "MaterialColor.limeA700",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 220,
+      "symbol": "MaterialColor.yellow50",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 221,
+      "symbol": "MaterialColor.yellow100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 222,
+      "symbol": "MaterialColor.yellow200",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 223,
+      "symbol": "MaterialColor.yellow300",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 224,
+      "symbol": "MaterialColor.yellow400",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 225,
+      "symbol": "MaterialColor.yellow500",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 226,
+      "symbol": "MaterialColor.yellow600",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 227,
+      "symbol": "MaterialColor.yellow700",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 228,
+      "symbol": "MaterialColor.yellow800",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 229,
+      "symbol": "MaterialColor.yellow900",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 230,
+      "symbol": "MaterialColor.yellowA100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 231,
+      "symbol": "MaterialColor.yellowA200",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 232,
+      "symbol": "MaterialColor.yellowA400",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 233,
+      "symbol": "MaterialColor.yellowA700",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 237,
+      "symbol": "MaterialColor.amber50",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 238,
+      "symbol": "MaterialColor.amber100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 239,
+      "symbol": "MaterialColor.amber200",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 240,
+      "symbol": "MaterialColor.amber300",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 241,
+      "symbol": "MaterialColor.amber400",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 242,
+      "symbol": "MaterialColor.amber500",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 243,
+      "symbol": "MaterialColor.amber600",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 244,
+      "symbol": "MaterialColor.amber700",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 245,
+      "symbol": "MaterialColor.amber800",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 246,
+      "symbol": "MaterialColor.amber900",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 247,
+      "symbol": "MaterialColor.ambera100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 248,
+      "symbol": "MaterialColor.ambera200",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 249,
+      "symbol": "MaterialColor.ambera400",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 250,
+      "symbol": "MaterialColor.ambera700",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 254,
+      "symbol": "MaterialColor.orange50",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 255,
+      "symbol": "MaterialColor.orange100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 256,
+      "symbol": "MaterialColor.orange200",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 257,
+      "symbol": "MaterialColor.orange300",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 258,
+      "symbol": "MaterialColor.orange400",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 259,
+      "symbol": "MaterialColor.orange500",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 260,
+      "symbol": "MaterialColor.orange600",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 261,
+      "symbol": "MaterialColor.orange700",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 262,
+      "symbol": "MaterialColor.orange800",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 263,
+      "symbol": "MaterialColor.orange900",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 264,
+      "symbol": "MaterialColor.orangeA100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 265,
+      "symbol": "MaterialColor.orangeA200",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 266,
+      "symbol": "MaterialColor.orangeA400",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 267,
+      "symbol": "MaterialColor.orangeA700",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 271,
+      "symbol": "MaterialColor.deepOrange50",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 272,
+      "symbol": "MaterialColor.deepOrange100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 273,
+      "symbol": "MaterialColor.deepOrange200",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 274,
+      "symbol": "MaterialColor.deepOrange300",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 275,
+      "symbol": "MaterialColor.deepOrange400",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 276,
+      "symbol": "MaterialColor.deepOrange500",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 277,
+      "symbol": "MaterialColor.deepOrange600",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 278,
+      "symbol": "MaterialColor.deepOrange700",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 279,
+      "symbol": "MaterialColor.deepOrange800",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 280,
+      "symbol": "MaterialColor.deepOrange900",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 281,
+      "symbol": "MaterialColor.deepOrangeA100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 282,
+      "symbol": "MaterialColor.deepOrangeA200",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 283,
+      "symbol": "MaterialColor.deepOrangeA400",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 284,
+      "symbol": "MaterialColor.deepOrangeA700",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 288,
+      "symbol": "MaterialColor.brown50",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 289,
+      "symbol": "MaterialColor.brown100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 290,
+      "symbol": "MaterialColor.brown200",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 291,
+      "symbol": "MaterialColor.brown300",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 292,
+      "symbol": "MaterialColor.brown400",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 293,
+      "symbol": "MaterialColor.brown500",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 294,
+      "symbol": "MaterialColor.brown600",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 295,
+      "symbol": "MaterialColor.brown700",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 296,
+      "symbol": "MaterialColor.brown800",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 297,
+      "symbol": "MaterialColor.brown900",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 301,
+      "symbol": "MaterialColor.grey50",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 302,
+      "symbol": "MaterialColor.grey100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 303,
+      "symbol": "MaterialColor.grey200",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 304,
+      "symbol": "MaterialColor.grey300",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 305,
+      "symbol": "MaterialColor.grey400",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 306,
+      "symbol": "MaterialColor.grey500",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 307,
+      "symbol": "MaterialColor.grey600",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 308,
+      "symbol": "MaterialColor.grey700",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 309,
+      "symbol": "MaterialColor.grey800",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 310,
+      "symbol": "MaterialColor.grey900",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 314,
+      "symbol": "MaterialColor.blueGrey50",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 315,
+      "symbol": "MaterialColor.blueGrey100",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 316,
+      "symbol": "MaterialColor.blueGrey200",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 317,
+      "symbol": "MaterialColor.blueGrey300",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 318,
+      "symbol": "MaterialColor.blueGrey400",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 319,
+      "symbol": "MaterialColor.blueGrey500",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 320,
+      "symbol": "MaterialColor.blueGrey600",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 321,
+      "symbol": "MaterialColor.blueGrey700",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 322,
+      "symbol": "MaterialColor.blueGrey800",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vsanthanam/Desktop/MaterialColors/Sources/MaterialColors/MaterialColor.swift",
+      "line": 323,
+      "symbol": "MaterialColor.blueGrey900",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/vsanthanam/Desktop/MaterialColors"
+}
