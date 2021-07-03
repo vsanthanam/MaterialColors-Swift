@@ -59,6 +59,20 @@ import Foundation
             }
         }
 
+        /// The color as a `MaterialColor`, or nil if the color cannot be represented as a `MaterialColor`
+        var asMaterialColor: MaterialColor? {
+            var r: CGFloat = 0
+            var g: CGFloat = 0
+            var b: CGFloat = 0
+            var a: CGFloat = 0
+
+            getRed(&r, green: &g, blue: &b, alpha: &a)
+
+            let rgb: UInt32 = (UInt32)(r * 255) << 16 | (UInt32)(g * 255) << 8 | (UInt32)(b * 255) << 0
+
+            return .init(rawValue: rgb)
+        }
+
         // MARK: - Private
 
         private convenience init(hex6: UInt32,
