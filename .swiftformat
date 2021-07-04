@@ -1,3 +1,4 @@
 --disable blankLinesAtEndOfScope,blankLinesAtStartOfScope,redundantNilInit,unusedArguments,redundantParens,wrapMultilineStatementBraces,trailingCommas,braces
 --enable isEmpty
 --swiftversion 5.4
+--header "{file}\nMaterialColors\nCopyright (c) {year} Varun Santhanam"

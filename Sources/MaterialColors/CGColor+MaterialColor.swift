@@ -24,6 +24,7 @@ import Foundation
             UIColor.material(materialColor, alpha: alpha).cgColor
         }
 
+        /// The color as a `MaterialColor`, or nil if the color cannot be represented as a `MaterialColor`
         var asMaterialColor: MaterialColor? {
             UIColor(cgColor: self).asMaterialColor
         }
@@ -49,6 +50,7 @@ import Foundation
             NSColor.material(materialColor, alpha: alpha).cgColor
         }
 
+        /// The color as a `MaterialColor`, or nil if the color cannot be represented as a `MaterialColor`
         var asMaterialColor: MaterialColor? {
             NSColor(cgColor: self)?.asMaterialColor
         }
