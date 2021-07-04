@@ -7,7 +7,7 @@
 
 import Foundation
 
-#if os(macOS)
+#if os(macOS) && !targetEnvironment(macCatalyst)
 
     import AppKit
 
