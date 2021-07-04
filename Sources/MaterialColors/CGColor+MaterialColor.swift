@@ -21,12 +21,12 @@ import Foundation
         /// ```
         ///
         /// - Parameters:
-        ///   - materialColor: The `MaterialColor`
+        ///   - color: The `MaterialColor`
         ///   - alpha: The alpha value. Optional.
         /// - Returns: The `CGColor`
-        static func material(_ materialColor: MaterialColor,
+        static func material(_ color: MaterialColor,
                              alpha: CGFloat = 1.0) -> CGColor {
-            UIColor.material(materialColor, alpha: alpha).cgColor
+            UIColor.material(color, alpha: alpha).cgColor
         }
 
         /// The color as a `MaterialColor`, or nil if the color cannot be represented as a `MaterialColor`
@@ -53,12 +53,12 @@ import Foundation
         /// ```
         ///
         /// - Parameters:
-        ///   - materialColor: The `MaterialColor`
+        ///   - color: The `MaterialColor`
         ///   - alpha: The alpha value. Optional.
         /// - Returns: The `CGColor`
-        static func material(_ materialColor: MaterialColor,
+        static func material(_ color: MaterialColor,
                              alpha: CGFloat = 1.0) -> CGColor {
-            NSColor.material(materialColor, alpha: alpha).cgColor
+            NSColor.material(color, alpha: alpha).cgColor
         }
 
         /// The color as a `MaterialColor`, or nil if the color cannot be represented as a `MaterialColor`

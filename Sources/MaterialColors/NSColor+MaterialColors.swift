@@ -20,12 +20,12 @@ import Foundation
         /// ```
         ///
         /// - Parameters:
-        ///   - materialColor: The `MaterialColor`
+        ///   - color: The `MaterialColor`
         ///   - alpha: The alpha value of the color. Optional.
         /// - Returns: The `NSColor`
-        static func material(_ materialColor: MaterialColor,
+        static func material(_ color: MaterialColor,
                              alpha: CGFloat = 1.0) -> NSColor {
-            .init(hex6: materialColor.rawValue, alpha: alpha)
+            .init(hex6: color.rawValue, alpha: alpha)
         }
 
         /// The color as a `MaterialColor`, or nil if the color cannot be represented as a `MaterialColor`
