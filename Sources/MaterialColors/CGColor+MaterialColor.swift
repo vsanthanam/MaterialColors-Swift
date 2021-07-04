@@ -1,9 +1,8 @@
 //
-//  File.swift
+// CGColor+MaterialColor.swift
 //
-//
-//  Created by Varun Santhanam on 7/4/21.
-//
+// MaterialColors
+// Copyright (c) 2021 Varun Santhanam
 
 import Foundation
 

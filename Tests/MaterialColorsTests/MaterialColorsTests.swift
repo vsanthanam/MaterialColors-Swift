@@ -1,3 +1,9 @@
+//
+// MaterialColorsTests.swift
+//
+// MaterialColors
+// Copyright (c) 2021 Varun Santhanam
+
 @testable import MaterialColors
 import XCTest
 
