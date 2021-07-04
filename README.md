@@ -66,3 +66,15 @@ struct MyView: View {
 }
 ```
 
+### Strings
+
+You can also create material colors from strings and string literals. This can be useful if you are parsing some value from an http response:
+
+```
+let uicolor: UIColor = .material("red400")
+
+let string = "red400"
+let color = MaterialColor(string)
+
+let nscolor: NSColor = .material(color)
+```

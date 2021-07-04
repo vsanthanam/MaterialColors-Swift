@@ -74,14 +74,63 @@
 
 <p>It support UIKit, AppKit, and SwiftUI, as well as platform light and dark user interface styles:</p>
 <h3 id='uikit' class='heading'>UIKit</h3>
-<pre class="highlight plaintext"><code>let view = UIView()
+<pre class="highlight plaintext"><code>import MaterialColors
+import UIKit
+
+let view = UIView()
 view.backgroundColor = .material(.red400)
+</code></pre>
+<pre class="highlight plaintext"><code>import MaterialColors
+import UIKit
 
 let dynamicView = UIView()
 view.backgroundColor = .material(light: .grey50, dark: .grey400)
 </code></pre>
+<h3 id='appkit' class='heading'>AppKit</h3>
+<pre class="highlight plaintext"><code>import AppKit
+import MaterialColors
 
-<p>More to come.</p>
+let view = NSView()
+view.backgroundColor = .material(.green50)
+</code></pre>
+<h3 id='coregraphics' class='heading'>CoreGraphics</h3>
+<pre class="highlight plaintext"><code>import CoreGraphics
+import MaterialColors
+import UIKit
+
+let view = UIView()
+view.layer.background = .material(.purple300)
+</code></pre>
+<pre class="highlight plaintext"><code>import AppKit
+import CoreGraphics
+import MaterialColors
+
+let view = NSView()
+view.layer.background = .material(.orange200)
+</code></pre>
+<h3 id='swiftui' class='heading'>SwiftUI</h3>
+<pre class="highlight plaintext"><code>import MaterialColors
+import SwiftUI
+
+struct MyView: View {
+
+    var body: some View {
+        Rectangle()
+            .foregroundColor(.material(.deepPurple400))
+    }
+
+}
+</code></pre>
+<h3 id='strings' class='heading'>Strings</h3>
+
+<p>You can also create material colors from strings and string literals. This can be useful if you are parsing some value from an http response:</p>
+<pre class="highlight plaintext"><code>let uicolor: UIColor = .material("red400")
+
+let string = "red400"
+let color = MaterialColor(string)
+
+let nscolor: NSColor = .material(color)
+</code></pre>
 
           </section>
         </section>
