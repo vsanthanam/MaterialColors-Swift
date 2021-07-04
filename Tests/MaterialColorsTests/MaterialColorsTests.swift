@@ -299,6 +299,7 @@ final class MaterialColorsTests: XCTestCase {
             }
         }
 
+        @available(iOS 14.0, *)
         func test_suicolor_conversion() {
             for materialColor in MaterialColor.allCases {
                 let suicolor: Color = .material(materialColor)
