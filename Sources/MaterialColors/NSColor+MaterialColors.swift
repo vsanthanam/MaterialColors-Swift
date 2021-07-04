@@ -29,6 +29,7 @@ import Foundation
             .init(hex6: materialColor.rawValue, alpha: alpha)
         }
 
+        /// The color as a `MaterialColor`, or nil if the color cannot be represented as a `MaterialColor`
         var asMaterialColor: MaterialColor? {
             var r: CGFloat = 0
             var g: CGFloat = 0
