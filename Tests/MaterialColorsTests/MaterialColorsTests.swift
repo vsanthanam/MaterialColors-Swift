@@ -279,7 +279,7 @@ final class MaterialColorsTests: XCTestCase {
                 XCTAssertEqual(uicolor.asMaterialColor, materialColor)
             }
         }
-    
+
         func test_cgcolor_conversion() {
             for materialColor in MaterialColor.allCases {
                 let cgcolor: CGColor = .material(materialColor)
@@ -297,7 +297,7 @@ final class MaterialColorsTests: XCTestCase {
                 XCTAssertEqual(nscolor.asMaterialColor, materialColor)
             }
         }
-    
+
         func test_cgcolor_conversion() {
             for materialColor in MaterialColor.allCases {
                 let cgcolor: CGColor = .material(materialColor)

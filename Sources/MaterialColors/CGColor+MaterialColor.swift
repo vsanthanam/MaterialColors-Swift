@@ -1,6 +1,6 @@
 //
 //  File.swift
-//  
+//
 //
 //  Created by Varun Santhanam on 7/4/21.
 //
@@ -9,25 +9,25 @@ import Foundation
 
 #if os(iOS) || os(tvOS) || os(watchOS) || targetEnvironment(macCatalyst)
 
-    import UIKit
     import CoreGraphics
+    import UIKit
 
-    extension CGColor {
-        
+    public extension CGColor {
+
         /// Create a `CGColor` from a `MaterialColor`
         /// - Parameters:
         ///   - materialColor: The `MaterialColor`
         ///   - alpha: The alpha value. Optional.
         /// - Returns: The `CGColor`
-        public static func material(_ materialColor: MaterialColor,
-                                    alpha: CGFloat = 1.0) -> CGColor {
+        static func material(_ materialColor: MaterialColor,
+                             alpha: CGFloat = 1.0) -> CGColor {
             UIColor.material(materialColor, alpha: alpha).cgColor
         }
-        
-        public var asMaterialColor: MaterialColor? {
+
+        var asMaterialColor: MaterialColor? {
             UIColor(cgColor: self).asMaterialColor
         }
-        
+
     }
 
 #endif
@@ -37,22 +37,22 @@ import Foundation
     import AppKit
     import CoreGraphics
 
-    extension CGColor {
-        
+    public extension CGColor {
+
         /// Create a `CGColor` from a `MaterialColor`
         /// - Parameters:
         ///   - materialColor: The `MaterialColor`
         ///   - alpha: The alpha value. Optional.
         /// - Returns: The `CGColor`
-        public static func material(_ materialColor: MaterialColor,
-                                    alpha: CGFloat = 1.0) -> CGColor {
+        static func material(_ materialColor: MaterialColor,
+                             alpha: CGFloat = 1.0) -> CGColor {
             NSColor.material(materialColor, alpha: alpha).cgColor
         }
-        
-        public var asMaterialColor: MaterialColor? {
-            NSColor(cgColor: self).asMaterialColor
+
+        var asMaterialColor: MaterialColor? {
+            NSColor(cgColor: self)?.asMaterialColor
         }
-        
+
     }
 
 #endif
