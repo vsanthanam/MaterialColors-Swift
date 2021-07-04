@@ -14,6 +14,12 @@ import Foundation
     public extension CGColor {
 
         /// Create a `CGColor` from a `MaterialColor`
+        ///
+        /// ```
+        /// let view = MyView()
+        /// view.layer.borderColor = .material(.red400)
+        /// ```
+        ///
         /// - Parameters:
         ///   - materialColor: The `MaterialColor`
         ///   - alpha: The alpha value. Optional.
@@ -40,6 +46,12 @@ import Foundation
     public extension CGColor {
 
         /// Create a `CGColor` from a `MaterialColor`
+        ///
+        /// ```
+        /// let view = NSView()
+        /// view.layer.borderColor = .material(.red400)
+        /// ```
+        ///
         /// - Parameters:
         ///   - materialColor: The `MaterialColor`
         ///   - alpha: The alpha value. Optional.
