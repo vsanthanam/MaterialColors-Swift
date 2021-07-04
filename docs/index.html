@@ -131,6 +131,18 @@ let color = MaterialColor(string)
 
 let nscolor: NSColor = .material(color)
 </code></pre>
+<h3 id='converting-backwards' class='heading'>Converting Backwards</h3>
+
+<p>You can also determine whether a given color is one of the standard material design colors, and if so, which one it is:</p>
+<pre class="highlight plaintext"><code>import XCTest
+import MaterialColors
+
+let materialColor: UIColor = .material(.red400)
+let nonMaterialColor = UIColor.blue
+
+XCTAssertNil(nonMaterialColor.asMaterialColor)
+XCTAssertEqual(materialColor.asMaterialColor, .red400)
+</code></pre>
 
           </section>
         </section>
