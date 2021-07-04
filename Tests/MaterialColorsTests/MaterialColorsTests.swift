@@ -21,8 +21,6 @@ final class MaterialColorsTests: XCTestCase {
 
     func test_rawValues() {
         let rawValues: [UInt32] = [
-            0,
-            16_777_215,
             16_772_078,
             16_764_370,
             15_702_682,
