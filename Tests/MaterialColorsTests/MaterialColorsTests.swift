@@ -8,8 +8,8 @@
 import XCTest
 
 #if os(iOS) || os(tvOS) || os(watchOS) || targetEnvironment(macCatalyst)
-    import UIKit
     import SwiftUI
+    import UIKit
 #endif
 
 #if os(macOS) && !targetEnvironment(macCatalyst)
@@ -298,7 +298,7 @@ final class MaterialColorsTests: XCTestCase {
                 XCTAssertEqual(cgcolor.asMaterialColor, materialColor)
             }
         }
-    
+
         func test_suicolor_conversion() {
             for materialColor in MaterialColor.allCases {
                 let suicolor: Color = .material(materialColor)
@@ -323,7 +323,8 @@ final class MaterialColorsTests: XCTestCase {
                 XCTAssertEqual(cgcolor.asMaterialColor, materialColor)
             }
         }
-    
+
+        @available(macOS 11.0, *)
         func test_suicolor_conversion() {
             for materialColor in MaterialColor.allCases {
                 let suicolor: Color = .material(materialColor)

@@ -52,7 +52,7 @@ import Foundation
                                  darkAlpha: Float = 1.0) -> Color {
                 .init(UIColor.material(light: light, dark: dark, lightAlpha: .init(lightAlpha), darkAlpha: .init(darkAlpha)))
             }
-            
+
             /// The color as a `MaterialColor`, or nil if the color cannot be represented as a `MaterialColor`
             @available(iOS 14.0, *)
             var asMaterialColor: MaterialColor? {
@@ -84,7 +84,7 @@ import Foundation
                                  alpha: Float = 1.0) -> Color {
                 .init(NSColor.material(color, alpha: .init(alpha)))
             }
-            
+
             /// The color as a `MaterialColor`, or nil if the color cannot be represented as a `MaterialColor`
             @available(macOS 11.0, *)
             var asMaterialColor: MaterialColor? {
