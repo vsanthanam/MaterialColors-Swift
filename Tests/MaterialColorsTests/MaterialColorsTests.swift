@@ -1,3 +1,9 @@
+//
+// MaterialColorsTests.swift
+//
+// MaterialColors
+// Copyright (c) 2021 Varun Santhanam
+
 @testable import MaterialColors
 import XCTest
 
@@ -280,6 +286,13 @@ final class MaterialColorsTests: XCTestCase {
             }
         }
 
+        func test_cgcolor_conversion() {
+            for materialColor in MaterialColor.allCases {
+                let cgcolor: CGColor = .material(materialColor)
+                XCTAssertEqual(cgcolor.asMaterialColor, materialColor)
+            }
+        }
+
     #endif
 
     #if os(macOS) && !targetEnvironment(macCatalyst)
@@ -288,6 +301,13 @@ final class MaterialColorsTests: XCTestCase {
             for materialColor in MaterialColor.allCases {
                 let nscolor: NSColor = .material(materialColor)
                 XCTAssertEqual(nscolor.asMaterialColor, materialColor)
+            }
+        }
+
+        func test_cgcolor_conversion() {
+            for materialColor in MaterialColor.allCases {
+                let cgcolor: CGColor = .material(materialColor)
+                XCTAssertEqual(cgcolor.asMaterialColor, materialColor)
             }
         }
 

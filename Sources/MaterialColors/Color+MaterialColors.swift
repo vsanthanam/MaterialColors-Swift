@@ -1,9 +1,8 @@
 //
-//  File.swift
+// Color+MaterialColors.swift
 //
-//
-//  Created by Varun Santhanam on 7/2/21.
-//
+// MaterialColors
+// Copyright (c) 2021 Varun Santhanam
 
 import Foundation
 
@@ -58,7 +57,7 @@ import Foundation
 
     #endif
 
-    #if os(macOS)
+    #if os(macOS) && !targetEnvironment(macCatalyst)
 
         import AppKit
 

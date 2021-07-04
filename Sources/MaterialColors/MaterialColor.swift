@@ -1,3 +1,9 @@
+//
+// MaterialColor.swift
+//
+// MaterialColors
+// Copyright (c) 2021 Varun Santhanam
+
 import Foundation
 
 /// A list of colors from Material Design

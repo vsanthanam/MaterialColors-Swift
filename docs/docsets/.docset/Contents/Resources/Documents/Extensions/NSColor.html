@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Color Extension Reference</title>
+    <title>NSColor Extension Reference</title>
     <link rel="stylesheet" type="text/css" href="../css/jazzy.css" />
     <link rel="stylesheet" type="text/css" href="../css/highlight.css" />
     <meta charset='utf-8'>
@@ -13,13 +13,11 @@
     <script src="../js/jazzy.search.js" defer></script>
   </head>
   <body>
-    <a name="//apple_ref/swift/Extension/Color" class="dashAnchor"></a>
-    <a title="Color Extension Reference"></a>
+    <a name="//apple_ref/swift/Extension/NSColor" class="dashAnchor"></a>
+    <a title="NSColor Extension Reference"></a>
     <header>
       <div class="content-wrapper">
-        <p><a href="../index.html">MaterialColors 0.0.1 Docs</a> (4% documented)</p>
-        <p class="header-right"><a href="https://www.github.com/vsanthanam/MaterialColors"><img src="../img/gh.png"/>View on GitHub</a></p>
-        <p class="header-right"><a href="dash-feed://https%3A%2F%2Fvsanthanam.github.io%2Fdocsets%2FMaterialColors.xml"><img src="../img/dash.png"/>Install in Dash</a></p>
+        <p><a href="../index.html"> Docs</a> (5% documented)</p>
         <p class="header-right">
           <form role="search" action="../search.json">
             <input type="text" placeholder="Search documentation" data-typeahead>
@@ -29,9 +27,9 @@
     </header>
     <div class="content-wrapper">
       <p id="breadcrumbs">
-        <a href="../index.html">MaterialColors Reference</a>
+        <a href="../index.html"> Reference</a>
         <img id="carat" src="../img/carat.png" />
-        Color Extension Reference
+        NSColor Extension Reference
       </p>
     </div>
     <div class="content-wrapper">
@@ -49,6 +47,12 @@
             <a href="../Extensions.html">Extensions</a>
             <ul class="nav-group-tasks">
               <li class="nav-group-task">
+                <a href="../Extensions/CGColor.html">CGColor</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Extensions/CGColor.html">CGColor</a>
+              </li>
+              <li class="nav-group-task">
                 <a href="../Extensions/Color.html">Color</a>
               </li>
               <li class="nav-group-task">
@@ -64,11 +68,11 @@
       <article class="main-content">
         <section>
           <section class="section">
-            <h1>Color</h1>
+            <h1>NSColor</h1>
               <div class="declaration">
                 <div class="language">
                   
-                  <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">extension</span> <span class="kt">Color</span></code></pre>
+                  <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">extension</span> <span class="kt">NSColor</span></code></pre>
 
                 </div>
               </div>
@@ -80,9 +84,9 @@
                 <li class="item">
                   <div>
                     <code>
-                    <a name="/s:7SwiftUI5ColorV14MaterialColorsE8material5color5alphaAcD0dC0O_SftFZ"></a>
-                    <a name="//apple_ref/swift/Method/material(color:alpha:)" class="dashAnchor"></a>
-                    <a class="token" href="#/s:7SwiftUI5ColorV14MaterialColorsE8material5color5alphaAcD0dC0O_SftFZ">material(color:<wbr>alpha:<wbr>)</a>
+                    <a name="/s:So7NSColorC14MaterialColorsE8material_5alphaAbC0B5ColorO_12CoreGraphics7CGFloatVtFZ"></a>
+                    <a name="//apple_ref/swift/Method/material(_:alpha:)" class="dashAnchor"></a>
+                    <a class="token" href="#/s:So7NSColorC14MaterialColorsE8material_5alphaAbC0B5ColorO_12CoreGraphics7CGFloatVtFZ">material(_:<wbr>alpha:<wbr>)</a>
                     </code>
                   </div>
                   <div class="height-container">
@@ -90,9 +94,9 @@
                     <section class="section">
                       <div class="pointer"></div>
                       <div class="abstract">
-                        <p>Create a SwiftUI Color</p>
-<pre class="highlight swift"><code><span class="n">myView</span>
-    <span class="o">.</span><span class="nf">backgroundColor</span><span class="p">(</span><span class="o">.</span><span class="nf">material</span><span class="p">(</span><span class="o">.</span><span class="n">blue400</span><span class="p">))</span>
+                        <p>Create an <code>NSColor</code> from a <code><a href="../Enums/MaterialColor.html">MaterialColor</a></code></p>
+<pre class="highlight swift"><code><span class="k">let</span> <span class="nv">view</span> <span class="o">=</span> <span class="kt">NSView</span><span class="p">()</span>
+<span class="n">view</span><span class="o">.</span><span class="n">backgroundColor</span> <span class="o">=</span> <span class="o">.</span><span class="nf">material</span><span class="p">(</span><span class="o">.</span><span class="n">red100</span><span class="p">)</span>
 </code></pre>
 
                       </div>
@@ -100,8 +104,8 @@
                         <h4>Declaration</h4>
                         <div class="language">
                           <p class="aside-title">Swift</p>
-                          <pre class="highlight swift"><code><span class="kd">static</span> <span class="kd">func</span> <span class="nf">material</span><span class="p">(</span><span class="nv">color</span><span class="p">:</span> <span class="kt"><a href="../Enums/MaterialColor.html">MaterialColor</a></span><span class="p">,</span>
-                     <span class="nv">alpha</span><span class="p">:</span> <span class="kt">Float</span> <span class="o">=</span> <span class="mf">1.0</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">Color</span></code></pre>
+                          <pre class="highlight swift"><code><span class="kd">static</span> <span class="kd">func</span> <span class="nf">material</span><span class="p">(</span><span class="n">_</span> <span class="nv">materialColor</span><span class="p">:</span> <span class="kt"><a href="../Enums/MaterialColor.html">MaterialColor</a></span><span class="p">,</span>
+                     <span class="nv">alpha</span><span class="p">:</span> <span class="kt">CGFloat</span> <span class="o">=</span> <span class="mf">1.0</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">NSColor</span></code></pre>
 
                         </div>
                       </div>
@@ -112,7 +116,7 @@
                             <tr>
                               <td>
                                 <code>
-                                <em>color</em>
+                                <em>materialColor</em>
                                 </code>
                               </td>
                               <td>
@@ -138,7 +142,34 @@
                       </div>
                       <div>
                         <h4>Return Value</h4>
-                        <p>The SwiftUI <code>Color</code></p>
+                        <p>The <code>NSColor</code></p>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:So7NSColorC14MaterialColorsE02asB5ColorAC0bE0OSgvp"></a>
+                    <a name="//apple_ref/swift/Property/asMaterialColor" class="dashAnchor"></a>
+                    <a class="token" href="#/s:So7NSColorC14MaterialColorsE02asB5ColorAC0bE0OSgvp">asMaterialColor</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>The color as a <code><a href="../Enums/MaterialColor.html">MaterialColor</a></code>, or nil if the color cannot be represented as a <code><a href="../Enums/MaterialColor.html">MaterialColor</a></code></p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="k">var</span> <span class="nv">asMaterialColor</span><span class="p">:</span> <span class="kt"><a href="../Enums/MaterialColor.html">MaterialColor</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+
+                        </div>
                       </div>
                     </section>
                   </div>
@@ -148,7 +179,7 @@
           </section>
         </section>
         <section id="footer">
-          <p>&copy; 2021 <a class="link" href="https://www.vsanthanam.com" target="_blank" rel="external">Varun Santhanam</a>. All rights reserved. (Last updated: 2021-07-03)</p>
+          <p>&copy; 2021 <a class="link" href="https://www.vsanthanam.com" target="_blank" rel="external">Varun Santhanam</a>. All rights reserved. (Last updated: 2021-07-04)</p>
           <p>Generated by <a class="link" href="https://github.com/realm/jazzy" target="_blank" rel="external">jazzy ♪♫ v0.13.7</a>, a <a class="link" href="https://realm.io" target="_blank" rel="external">Realm</a> project.</p>
         </section>
       </article>

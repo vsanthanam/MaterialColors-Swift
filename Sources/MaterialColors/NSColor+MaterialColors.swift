@@ -1,13 +1,12 @@
 //
-//  File.swift
+// NSColor+MaterialColors.swift
 //
-//
-//  Created by Varun Santhanam on 7/2/21.
-//
+// MaterialColors
+// Copyright (c) 2021 Varun Santhanam
 
 import Foundation
 
-#if os(macOS)
+#if os(macOS) && !targetEnvironment(macCatalyst)
 
     import AppKit
 
@@ -29,6 +28,7 @@ import Foundation
             .init(hex6: materialColor.rawValue, alpha: alpha)
         }
 
+        /// The color as a `MaterialColor`, or nil if the color cannot be represented as a `MaterialColor`
         var asMaterialColor: MaterialColor? {
             var r: CGFloat = 0
             var g: CGFloat = 0
