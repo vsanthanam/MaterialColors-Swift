@@ -8,7 +8,7 @@ jazzy \
     --sdk 
     --build-tool-arguments -Xswiftc,-swift-version,-Xswiftc,5 \
     --module MaterialColors \
-    --module-version 0.0.4 \
+    --module-version 0.0.5 \
     --github_url https://www.github.com/vsanthanam/MaterialColors \
     --root-url https://vsanthanam.github.io \
     --output docs \
