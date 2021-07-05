@@ -76,9 +76,18 @@
             
             <h1 id='materialcolors' class='heading'>MaterialColors</h1>
 
-<p>MaterialColors is a swift package for quickly implementing colors from <a href="https://www.material.io">Material Design</a> in your projects.</p>
+<p>MaterialColors is a swift package for quickly implementing colors from <a href="https://www.material.io">Material Design</a> in your applications.
+It supports UIKit, AppKit, and SwiftUI, as well as platform light and dark user interface styles</p>
+<h2 id='setup' class='heading'>Setup</h2>
 
-<p>It support UIKit, AppKit, and SwiftUI, as well as platform light and dark user interface styles:</p>
+<p><code>MaterialColors</code> uses the <a href="https://swift.org/package-manager/">The Swift Package Manager</a> for distrubition. For now, this is the only supported method of installation, but others will be added soon.</p>
+
+<p>Add <code>MaterialColors</code> to your <code>Package.swift</code> file like so:</p>
+<pre class="highlight swift"><code><span class="nv">dependencies</span><span class="p">:</span> <span class="p">[</span>
+    <span class="o">.</span><span class="nf">package</span><span class="p">(</span><span class="nv">url</span><span class="p">:</span> <span class="s">"https://github.com/vsanthanam/MaterialColors-Swift.git"</span><span class="p">,</span> <span class="o">.</span><span class="nf">upToNextMajor</span><span class="p">(</span><span class="nv">from</span><span class="p">:</span> <span class="s">"0.0.0"</span><span class="p">))</span>
+<span class="p">]</span>
+</code></pre>
+<h2 id='usage' class='heading'>Usage</h2>
 <h3 id='uikit' class='heading'>UIKit</h3>
 <pre class="highlight swift"><code><span class="kd">import</span> <span class="kt">MaterialColors</span>
 <span class="kd">import</span> <span class="kt">UIKit</span>

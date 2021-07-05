@@ -1,9 +1,21 @@
 # MaterialColors
 
-MaterialColors is a swift package for quickly implementing colors from [Material Design](https://www.material.io) in your projects.
+MaterialColors is a swift package for quickly implementing colors from [Material Design](https://www.material.io) in your applications.
+It supports UIKit, AppKit, and SwiftUI, as well as platform light and dark user interface styles
 
-It support UIKit, AppKit, and SwiftUI, as well as platform light and dark user interface styles:
+## Setup
 
+`MaterialColors` uses the [The Swift Package Manager](https://swift.org/package-manager/) for distrubition. For now, this is the only supported method of installation, but others will be added soon.
+
+Add `MaterialColors` to your `Package.swift` file like so:
+
+```swift
+dependencies: [
+    .package(url: "https://github.com/vsanthanam/MaterialColors-Swift.git", .upToNextMajor(from: "0.0.0"))
+]
+```
+
+## Usage
 
 ### UIKit
 
