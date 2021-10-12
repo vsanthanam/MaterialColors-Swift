@@ -6,7 +6,7 @@
 
 import Foundation
 
-#if os(tvOS) || os(iOS) || os(watchOS)
+#if os(tvOS) || os(iOS) || os(watchOS) || targetEnvironment(macCatalyst)
 
     import UIKit
 
@@ -16,7 +16,23 @@ import Foundation
         ///
         /// ```
         /// let view = UIView()
-        /// view.backgroundColor = .material(light: .blue200)
+        /// view.backgroundColor = UIColor(material: .blue200)
+        /// ```
+        ///
+        /// - Parameters:
+        ///   - color: The `MaterialColor`
+        ///   - alpha: The alpha value of the color. Optional.
+        /// - Returns: The `UIColor`
+        convenience init(material color: MaterialColor,
+                         alpha: CGFloat = 1.0) {
+            self.init(hex6: color.rawValue, alpha: alpha)
+        }
+
+        /// Create a `UIColor` from a `MaterialColor`
+        ///
+        /// ```
+        /// let view = UIView()
+        /// view.backgroundColor = .material(.blue200)
         /// ```
         ///
         /// - Parameters:
@@ -25,7 +41,7 @@ import Foundation
         /// - Returns: The `UIColor`
         static func material(_ color: MaterialColor,
                              alpha: CGFloat = 1.0) -> UIColor {
-            .init(hex6: color.rawValue, alpha: alpha)
+            .init(material: color, alpha: alpha)
         }
 
         /// Create a dynamic `UIColor` from `MaterialColor` values for both light and dark modes

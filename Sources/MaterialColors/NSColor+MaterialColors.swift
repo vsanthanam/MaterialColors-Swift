@@ -16,6 +16,22 @@ import Foundation
         ///
         /// ```
         /// let view = NSView()
+        /// view.backgroundColor = NSColor(material: .red100)
+        /// ```
+        ///
+        /// - Parameters:
+        ///   - color: The `MaterialColor`
+        ///   - alpha: The alpha value of the color. Optional.
+        /// - Returns: The `NSColor`
+        convenience init(material color: MaterialColor,
+                         alpha: CGFloat = 1.0) {
+            self.init(hex6: color.rawValue, alpha: alpha)
+        }
+
+        /// Create an `NSColor` from a `MaterialColor`
+        ///
+        /// ```
+        /// let view = NSView()
         /// view.backgroundColor = .material(.red100)
         /// ```
         ///
@@ -25,7 +41,7 @@ import Foundation
         /// - Returns: The `NSColor`
         static func material(_ color: MaterialColor,
                              alpha: CGFloat = 1.0) -> NSColor {
-            .init(hex6: color.rawValue, alpha: alpha)
+            .init(material: color, alpha: alpha)
         }
 
         /// The color as a `MaterialColor`, or nil if the color cannot be represented as a `MaterialColor`
