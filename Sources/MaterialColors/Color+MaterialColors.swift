@@ -32,7 +32,7 @@ import Foundation
                  alpha: Float = 1.0) {
                 self = .init(UIColor.material(color, alpha: .init(alpha)))
             }
-            
+
             /// Create a SwiftUI `Color` from a `MaterialColor`
             ///
             /// ```
@@ -103,7 +103,7 @@ import Foundation
                  alpha: Float = 1.0) {
                 self = .init(NSColor.material(color, alpha: .init(alpha)))
             }
-            
+
             /// Create a SwiftUI Color
             ///
             /// ```
