@@ -21,6 +21,22 @@ import Foundation
             ///
             /// ```
             /// myView
+            ///     .backgroundColor(Color(material: .blue400))
+            /// ```
+            ///
+            /// - Parameters:
+            ///   - color: The `MaterialColor`
+            ///   - alpha: The alpha value of the color. Optional.
+            /// - Returns: The SwiftUI `Color`
+            init(material color: MaterialColor,
+                 alpha: Float = 1.0) {
+                self = .init(UIColor.material(color, alpha: .init(alpha)))
+            }
+
+            /// Create a SwiftUI `Color` from a `MaterialColor`
+            ///
+            /// ```
+            /// myView
             ///     .backgroundColor(.material(.blue400))
             /// ```
             ///
@@ -30,7 +46,7 @@ import Foundation
             /// - Returns: The SwiftUI `Color`
             static func material(_ color: MaterialColor,
                                  alpha: Float = 1.0) -> Color {
-                .init(UIColor.material(color, alpha: .init(alpha)))
+                .init(material: color, alpha: alpha)
             }
 
             /// Create a dynamic SwiftUI `Color` for light and dark modes
@@ -77,6 +93,21 @@ import Foundation
             ///
             /// ```
             /// myView
+            ///     .backgroundColor(Color(material: .blue400))
+            /// ```
+            /// - Parameters:
+            ///   - color: The `MaterialColor`
+            ///   - alpha: The alpha value of the color. Optional.
+            /// - Returns: The SwiftUI `Color`
+            init(material color: MaterialColor,
+                 alpha: Float = 1.0) {
+                self = .init(NSColor.material(color, alpha: .init(alpha)))
+            }
+
+            /// Create a SwiftUI Color
+            ///
+            /// ```
+            /// myView
             ///     .backgroundColor(.material(.blue400))
             /// ```
             /// - Parameters:
@@ -85,7 +116,7 @@ import Foundation
             /// - Returns: The SwiftUI `Color`
             static func material(_ color: MaterialColor,
                                  alpha: Float = 1.0) -> Color {
-                .init(NSColor.material(color, alpha: .init(alpha)))
+                .init(material: color, alpha: alpha)
             }
 
             /// The color as a `MaterialColor`, or nil if the color cannot be represented as a `MaterialColor`
