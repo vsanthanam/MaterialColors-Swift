@@ -10,5 +10,5 @@ jazzy \
     --module MaterialColors \
     --module-version 0.0.5 \
     --github_url https://www.github.com/vsanthanam/MaterialColors \
-    --root-url https://vsanthanam.github.io \
+    --root-url https://swiftmaterialcolors.dev \
     --output docs \
