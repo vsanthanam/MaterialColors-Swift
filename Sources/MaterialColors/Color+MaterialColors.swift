@@ -50,7 +50,10 @@ import Foundation
                                  dark: MaterialColor,
                                  lightAlpha: Float = 1.0,
                                  darkAlpha: Float = 1.0) -> Color {
-                .init(UIColor.material(light: light, dark: dark, lightAlpha: .init(lightAlpha), darkAlpha: .init(darkAlpha)))
+                .init(UIColor.material(light: light,
+                                       dark: dark,
+                                       lightAlpha: .init(lightAlpha),
+                                       darkAlpha: .init(darkAlpha)))
             }
 
             /// The color as a `MaterialColor`, or nil if the color cannot be represented as a `MaterialColor`
